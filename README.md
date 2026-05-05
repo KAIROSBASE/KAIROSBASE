@@ -17,7 +17,7 @@
 
 ## What is KAIROS AI?
 
-KAIROS AI is an on-chain intelligence terminal built for the Base network. Track wallets, set market cap alerts, and analyze tokens for bundle risk — all from a single Telegram bot.
+KAIROS AI is an on-chain intelligence terminal built for the Base network. Track wallets, set market cap alerts, and analyze tokens for bundle risk. All from a single Telegram bot.
 
 ---
 
@@ -25,9 +25,9 @@ KAIROS AI is an on-chain intelligence terminal built for the Base network. Track
 
 | Command | Description |
 |---|---|
-| `/trackwallet` | Monitor any Base wallet — buys, sells, transfers, bridges, swaps |
+| `/trackwallet` | Monitor any Base wallet. Buys, sells, transfers, bridges, swaps |
 | `/mcap` | Set a market cap alert and get notified when a token hits your target |
-| `/bundle` | Deep bundle analysis — holder concentration, deployer activity, coordinated buys, wallet sources |
+| `/bundle` | Deep bundle analysis. Holder concentration, deployer activity, coordinated buys, wallet sources |
 | `/status` | System status and all active alerts |
 
 ---
@@ -36,12 +36,12 @@ KAIROS AI is an on-chain intelligence terminal built for the Base network. Track
 
 The most advanced bundle analyzer on Base. Paste any CA and get a full risk report:
 
-- **Risk score** 0–100 with HIGH / MEDIUM / LOW rating
+- **Risk score** 0 to 100 with HIGH / MEDIUM / LOW rating
 - **Top 10 holders** with Basescan links and wallet classification
-- **Deployer analysis** — dump detection and ETH balance
-- **Coordinated buy detection** — same-block wallet clustering
-- **Wallet sources** — Fresh, New, Organic, or CEX-funded
-- **Launchpad exclusion** — Virtuals, Wow.XYZ, Clanker, Flaunch, Apestore, Bankr, Doppler and more automatically excluded
+- **Deployer analysis** with dump detection and ETH balance
+- **Coordinated buy detection** using same-block wallet clustering
+- **Wallet sources** classified as Fresh, New, Organic, or CEX-funded
+- **Launchpad exclusion** covering Virtuals, Wow.XYZ, Clanker, Flaunch, Apestore, Bankr, Doppler and more
 
 ---
 
